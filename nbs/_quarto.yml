@@ -1,0 +1,28 @@
+project:
+  type: website
+
+format:
+  html:
+    title-block-banner: '#3e5665'
+    css: styles.css
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true
+    toc-depth: 4
+
+website:
+  twitter-card: true
+  open-graph: true
+  repo-actions: [issue]
+  navbar:
+    background: primary
+    search: true
+  sidebar:
+    style: floating
+
+monofont: 'Source Code Pro'
+monofontoptions: 
+  - Scale=0.6
+
+metadata-files: [nbdev.yml, sidebar.yml]  

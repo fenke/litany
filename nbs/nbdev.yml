@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "litany"
+  site-url: "https://fenke.github.io/litany"
+  description: "Compose analytics modules for ConanPro / Wodan / AICore using NBDev literate programming tools"
+  repo-branch: main
+  repo-url: "https://github.com/fenke/litany"
