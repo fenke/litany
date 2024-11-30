@@ -1,0 +1,3 @@
+[submodule "horizon"]
+	path = horizon
+	url = git@gitlab.com:whysor-analytics/horizon.git
